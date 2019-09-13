@@ -1,4 +1,4 @@
-# MultiplicationALARussePython
+# MultiplicationALARussePython : file : multiplicationRusse.py
 a little code to perform a la russe multiplication in python 
 
 tu use it , go to the file then type

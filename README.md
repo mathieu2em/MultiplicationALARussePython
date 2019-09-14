@@ -1,11 +1,28 @@
-# MultiplicationALARussePython : file : multiplicationRusse.py
+# Greatest Common Multiplier
+file : pgcc.py                                                                              
+Finds the smallest common multiplier of two numbers
+(plus petit commun multiple)
+to use it , go to the file then type
+``` bash
+python3 pgcc.py number1 number2
+```
+
+example:
+``` bash
+$ python3 pgcc.py 10 12
+==> 60
+```
+
+
+
+# Russian Multiplication ( multiplication a la russe )
+file : multiplicationRusse.py                                                                        
 a little code to perform a la russe multiplication in python 
 
-tu use it , go to the file then type
+to use it , go to the file then type
 ``` bash
 python3 multiplicationRusse.py number1 number2
 ```
-
 example:
 ``` bash
 $ python3 multiplicationRusse.py 10 2

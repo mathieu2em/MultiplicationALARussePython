@@ -1,4 +1,4 @@
-# Greatest Common Multiplier
+# Smallest Common Multiplier
 file : pgcc.py                                                                              
 Finds the smallest common multiplier of two numbers
 (plus petit commun multiple)

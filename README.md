@@ -1,6 +1,6 @@
-# Smallest Common Multiplier
+# Least common multiple
 file : pgcc.py                                                                              
-Finds the smallest common multiplier of two numbers
+Finds the least common multiple of two numbers
 (plus petit commun multiple)
 to use it , go to the file then type
 ``` bash
